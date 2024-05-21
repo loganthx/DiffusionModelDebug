@@ -25,3 +25,14 @@ noised_batch = alpha_hat_tensor.sqrt() * batch_input + torch.sqrt(1 - alpha_hat_
 
 # Debugging
 If our model can reproduce the input from pure noise, then it's a reasonable network to train on a real dataset
+
+# Debugging Results
+Our image is a random image taken from a website:
+![alt text](https://ibb.co/179nYyW)
+
+Results:
+EPOCH 0
+![alt text](https://ibb.co/jLN1WRX)
+
+EPOCH 1000
+![alt text](https://ibb.co/NmgVTM6)
