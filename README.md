@@ -28,7 +28,7 @@ If our model can reproduce the input from pure noise, then it's a reasonable net
 
 # Debugging Results
 Our image is a random image taken from a website:
-![alt text](https://ibb.co/179nYyW)
+![alt text](https://freeimage.host/i/JiALsSI)
 
 Results:
 EPOCH 0
